@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sona Krishnan
 
-### 💻 About Me
+### 🌸 About Me
 ```json
 {
   "name": "Sona Krishnan",
