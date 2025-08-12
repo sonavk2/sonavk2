@@ -7,7 +7,7 @@
 ```json
 {
   "name": "Sona Krishnan",
-  "education": "Master's Student @ Cornell Tech",
+  "education": "Master's Student @ Cornell University",
   "majors": [
     "Computer Science (M.Eng)",
     "Statistics & Computer Science (B.S., University of Illinois at Urbana-Champaign)"
