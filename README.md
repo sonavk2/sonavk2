@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Sona Krishnan
 
-<!--
-**sonavk2/sonavk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+{
+  "name": "Sona Krishnan",
+  "role": "Master's Student @ Cornell Tech",
+  "majors": ["Computer Science (M.Eng)", "Statistics & Computer Science (B.S., University of Illinois at Urbana-Champaign)"],
+  "experience": [
+    "Generative AI & Cloud AI Platforms (InvisiblCloud)",
+    "Data Science Internship (Northrop Grumman)",
+    "Software Development Internship (Verde Finance)"
+  ],
+  "skills": [
+    "Python", "C/C++", "Java", "SQL/NoSQL", "AWS Bedrock", "React.js", "Scikit-Learn", "LangChain", "RAG Pipelines"
+  ]
+}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/sona-krishnan](https://www.linkedin.com/in/sona-krishnan/)  
+- **Email:** sk3449@cornell.edu / sonakris08@gmail.com 
+
 -->
