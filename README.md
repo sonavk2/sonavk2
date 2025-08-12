@@ -51,8 +51,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-### Pinned Projects
-
 ### 📌 Pinned Projects
 Personalized Workout Scheduler
 Full-stack fitness app hosted on GCP with real-time CRUD operations, optimized queries, and state management.
