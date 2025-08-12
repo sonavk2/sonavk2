@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sona Krishnan
 
-[![SonaKrishnan](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-krishnan/)
+[![LinkedIn - sonakrishnan](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-krishnan/)
 
 
 ### 🌸 About Me
