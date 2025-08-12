@@ -53,30 +53,26 @@
 
 ### 📌 Some Pinned Projects 
 #### 🫀 [CHD-Risk-Prediction-Model](https://github.com/sonavk2/CHD-Risk-Prediction-Model)  
-Predict coronary heart disease risk using **machine learning** on patient data.  
+Predict coronary heart disease risk using machine learning on patient data.  
 - Data preprocessing, feature engineering, and model selection  
-- Applied **Logistic Regression, SVM, Random Forest**  
+- Applied Logistic Regression, SVM, Random Forest
 - Evaluated with ROC-AUC, F1-score, and confusion matrix  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 ---
 
 #### ✈️ [uav-log-chatbot](https://github.com/sonavk2/uav-log-chatbot)  
-Interactive chatbot using **RAG** and **NLP** to query UAV flight logs and operational data.  
+Interactive chatbot using RAG and NLP to query UAV flight logs and operational data.  
 - Built retrieval-augmented generation pipelines  
-- Integrated with **LangChain** for natural language query handling  
+- Integrated with LangChain for natural language query handling  
 - Supports structured and unstructured UAV telemetry data  
-**Tech:** Python, LangChain, RAG, LLM APIs  
 
 ---
 
 #### 🏋 [Workout-Scheduler](https://github.com/sonavk2/Workout-Scheduler)  
 Full-stack web app for scheduling, tracking, and managing personalized workout plans.  
-- Hosted on **Google Cloud Platform** with real-time CRUD  
+- Hosted on GCP with real-time CRUD  
 - Optimized state management and query performance  
 - Responsive UI for desktop and mobile  
-**Tech:** JavaScript, React.js, Node.js, SQL, GCP  
-
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/sona-krishnan](https://www.linkedin.com/in/sona-krishnan/)  
