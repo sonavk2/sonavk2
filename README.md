@@ -7,7 +7,7 @@
 ```json
 {
   "name": "Sona Krishnan",
-  "role": "Master's Student @ Cornell Tech",
+  "education": "Master's Student @ Cornell Tech",
   "majors": [
     "Computer Science (M.Eng)",
     "Statistics & Computer Science (B.S., University of Illinois at Urbana-Champaign)"
@@ -16,10 +16,6 @@
     "Generative AI & Cloud AI Platforms (InvisiblCloud)",
     "Data Science Internship (Northrop Grumman)",
     "Software Development Internship (Verde Finance)"
-  ],
-  "skills": [
-    "Python", "C/C++", "Java", "SQL/NoSQL", "AWS Bedrock", "React.js",
-    "Scikit-Learn", "LangChain", "RAG Pipelines"
   ]
 }
 ```
