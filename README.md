@@ -21,12 +21,15 @@
 }
 ```
 ### 🛠 Tech Stack
-Languages & Databases
-Python C/C++ Java R JavaScript SQL PostgreSQL MongoDB NoSQL
-AI & Data Science
+**Languages & Databases**
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+ C/C++ Java R JavaScript SQL PostgreSQL MongoDB NoSQL
+  
+**AI & Data Science**
+
 AWS Bedrock LangChain LLM Guardrails Scikit-Learn Pandas NumPy Keras Vector Databases
 
-Cloud & DevOps
+Cloud & DevOps**
 AWS Lambda AWS Glue DynamoDB Azure Terraform Apache Airflow Spark
 
 Frontend & Backend
