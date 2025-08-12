@@ -12,10 +12,11 @@
     "Computer Science (M.Eng)",
     "Statistics & Computer Science (B.S., University of Illinois at Urbana-Champaign)"
   ],
-  "experience": [
-    "Generative AI & Cloud AI Platforms (InvisiblCloud)",
-    "Data Science Internship (Northrop Grumman)",
-    "Software Development Internship (Verde Finance)"
+  "interests": [
+    "Machine Learning Engineering",
+    "Data Science",
+    "Generative AI",
+    "Cloud Platforms"
   ]
 }
 ```
