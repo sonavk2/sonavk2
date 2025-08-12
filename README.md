@@ -45,4 +45,3 @@ Predictive ML model achieving 85.8% accuracy; used SMOTE and GridSearchCV to opt
 - **LinkedIn:** [linkedin.com/in/sona-krishnan](https://www.linkedin.com/in/sona-krishnan/)  
 - **Email:** sk3449@cornell.edu / sonakris08@gmail.com 
 
--->
