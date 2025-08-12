@@ -74,7 +74,7 @@ Full-stack web app for scheduling, tracking, and managing personalized workout p
 - Optimized state management and query performance  
 - Responsive UI for desktop and mobile  
 
-### 📫 Connect with Me
+### 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/sona-krishnan](https://www.linkedin.com/in/sona-krishnan/)  
 - **Email:** sk3449@cornell.edu / sonakris08@gmail.com 
 
