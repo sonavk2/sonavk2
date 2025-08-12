@@ -57,7 +57,7 @@ Predict coronary heart disease risk using **machine learning** on patient data.
 - Data preprocessing, feature engineering, and model selection  
 - Applied **Logistic Regression, SVM, Random Forest**  
 - Evaluated with ROC-AUC, F1-score, and confusion matrix  
-**Tech:** Jupyter Notebook, Python, Scikit-Learn, Pandas  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 ---
 
