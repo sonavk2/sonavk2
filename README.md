@@ -53,5 +53,5 @@
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/sona-krishnan](https://www.linkedin.com/in/sona-krishnan/)  
-- **Email:** sk3449@cornell.edu / sonakris08@gmail.com 
+- **Email:** sk3449@cornell.edu
 
