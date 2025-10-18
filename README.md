@@ -13,9 +13,9 @@
     "Statistics & Computer Science (B.S., University of Illinois at Urbana-Champaign)"
   ],
   "interests": [
-    "Machine Learning Engineering",
+    "AI/ML Engineering",
+    "Software Engineering",
     "Data Science",
-    "Generative AI",
     "Cloud Platforms"
   ]
 }
