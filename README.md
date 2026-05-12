@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sona Krishnan
+## Hi there 👋 I'm Sona 
 
 [![sona-krishnan](https://img.shields.io/badge/sona--krishnan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-krishnan/)
 
@@ -15,8 +15,7 @@
   "interests": [
     "AI/ML Engineering",
     "Software Engineering",
-    "Data Science",
-    "Cloud Platforms"
+    "Data Science"
   ]
 }
 ```
